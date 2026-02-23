@@ -14,8 +14,7 @@ Tài liệu này tập trung vào các vấn đề **tương thích x64** khi ch
 6. [DLL Loading: Tên File x64](#6-dll-loading-tên-file-x64)
 7. [Thư Viện BDB x64 & Static CRT](#7-thư-viện-bdb-x64--static-crt)
 8. [Build & Lib Staging](#8-build--lib-staging)
-9. [Triển Khai Thư Mục Server x64](#9-triển-khai-thư-mục-server-x64)
-10. [Checklist Tổng Hợp](#10-checklist-tổng-hợp)
+
 
 ---
 
